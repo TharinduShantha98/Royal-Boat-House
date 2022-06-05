@@ -3,3 +3,9 @@ function abc(){
 }
 
 abc();
+
+
+function getName() {
+    console.log("hello git hub ")
+
+}
