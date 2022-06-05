@@ -3,3 +3,14 @@ function f() {
 
 
 }
+
+
+
+f();
+
+
+function f1() {
+    console.log("hello world2")
+
+
+}
